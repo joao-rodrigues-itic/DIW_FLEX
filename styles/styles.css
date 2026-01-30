@@ -23,8 +23,8 @@
  .container {
     border: 2px solid black;
     display: flex;
-    justify-content: center;
+    justify-content: end;
     gap: 15px;
-    align-items: center;
+    align-items: end;
     height: 400px;
 }
