@@ -23,5 +23,6 @@
  .container {
     border: 2px solid black;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: end;
+    gap: 15px;
 }
