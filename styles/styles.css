@@ -1,0 +1,27 @@
+.num {
+    background-color: rgba(255, 255, 255, .5);
+    border-radius: 50%;
+    display: block;
+    font-size: 1.5em;
+    line-height: 3em;
+    text-align: center;
+    width: 3em;
+ }
+
+ .span1 {
+    background-color: rgb(188, 255, 55);
+ }
+
+ .span2 {
+    background-color: rgb(58, 157, 0);
+ }
+
+ .span3 {
+    background-color: rgb(207, 255, 224);
+ }
+
+ .container {
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+}
