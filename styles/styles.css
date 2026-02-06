@@ -10,7 +10,6 @@
 
  .span1 {
     background-color: rgb(188, 255, 55);
-    order: 1;
 }
 
  .span2 {
@@ -19,14 +18,11 @@
 
  .span3 {
     background-color: rgb(207, 255, 224);
-    order: 2;
 }
 
  .container {
     border: 2px solid black;
     display: flex;
-    justify-content: end;
-    gap: 15px;
-    align-items: end;
+    flex-direction: column;
     height: 400px;
 }
