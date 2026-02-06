@@ -10,10 +10,12 @@
 
  .span1 {
     background-color: rgb(185, 232, 0);
+    order: 1;
 }
 
  .span2 {
     background-color: rgb(58, 157, 0);
+    order: 2;
 }
 
  .span3 {
@@ -26,6 +28,6 @@
     flex-direction: column;
     height: 400px;
     justify-content: center;
-    align-items: end;
+    align-items: center;
     gap : 15px;
 }
