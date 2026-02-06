@@ -6,19 +6,21 @@
     line-height: 3em;
     text-align: center;
     width: 3em;
- }
+}
 
  .span1 {
     background-color: rgb(188, 255, 55);
- }
+    order: 1;
+}
 
  .span2 {
     background-color: rgb(58, 157, 0);
- }
+}
 
  .span3 {
     background-color: rgb(207, 255, 224);
- }
+    order: 2;
+}
 
  .container {
     border: 2px solid black;
