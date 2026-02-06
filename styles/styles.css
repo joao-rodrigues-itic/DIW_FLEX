@@ -18,6 +18,9 @@
 
 .el {
     width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .el:nth-child(5n+1) {
