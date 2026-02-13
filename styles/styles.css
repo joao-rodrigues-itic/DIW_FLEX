@@ -44,3 +44,7 @@
 .el:nth-child(5n+5) {
     background-color: black;
 }
+
+.el:nth-child(5) {
+    width: 100%;
+}
